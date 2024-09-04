@@ -1,6 +1,6 @@
-Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Node.js, Express and MongoDB.
-Steps to Start the App
-Install React Dependencies
-Instal Node Dependencies
-Start Node App
-Start React App
+Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Node.js, Express and MongoDB.<br>
+Steps to Start the App<br>
+Install React Dependencies<br>
+Instal Node Dependencies <br>
+Start Node App <br>
+Start React App <br>
